@@ -1,4 +1,4 @@
-# TIFS_SAGE
+# 🧙‍ TIFS_SAGE
 <img src="./overview.png" alt="Logo" width="450"/>
 
 **SAGE: Steering the Adversarial Generation of Examples with Accelerations**
